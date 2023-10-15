@@ -1,6 +1,7 @@
-#Section 2: Flutter & Dart Basics | - Getting a Solid Foundation [ROLL DICE APP]
 
-### Flutter and Dart
+# Section 2: Flutter & Dart Basics | - Getting a Solid Foundation [ROLL DICE APP]
+
+## Flutter and Dart
 
 - **Flutter** is a toolkit to create apps for Android, iOS, web, and more.
 - **Dart** is the language you write your Flutter apps in. It's straightforward to learn, especially if you've seen any programming language before.
@@ -1282,7 +1283,6 @@ TextButton(
     child: Text('Roll Dice'))
 ```
 Whenever the button is pressed, `updateDiceImage` will be called, generating a new random dice roll and updating the displayed image accordingly.
-
 
 
 
