@@ -1,6 +1,41 @@
 
 # Section 2: Flutter & Dart Basics | - Getting a Solid Foundation [ROLL DICE APP]
 
+
+######In this section...
+
+1. **Basic Flutter App and First Widget**
+   - Initial widget creation and understanding widgets.
+   - Implementing basic MaterialApp and Scaffold widgets.
+
+2. **Import Statement**
+   - The significance and utilization of import statements in Flutter.
+
+3. **Incorporation of Image Assets**
+   - Setting up and managing the `assets` folder.
+   - Utilizing the `pubspec.yaml` file to manage assets.
+   - Displaying image assets in the app.
+   
+4. **Creating a Visual Design**
+   - Using gradient backgrounds.
+   - Understanding and working with different types of widgets.
+   
+5. **Building and Managing UI Components**
+   - Using different widgets like `Column` and `Container` to structure UI.
+   - Solving common UI issues like overflow.
+
+6. **Interactive Elements and Functions**
+   - Adding buttons and creating function calls.
+   - Implementing anonymous functions and predefined function calls on button presses.
+   
+7. **Managing App State**
+   - Introduction to state management and converting StatelessWidget to StatefulWidget.
+   
+8. **Dynamic UI Update and Logic Implementation**
+   - Using variables to dynamically update UI components.
+   - Implementing logical operations to interactively modify UI elements.
+
+
 ## Flutter and Dart
 
 - **Flutter** is a toolkit to create apps for Android, iOS, web, and more.
