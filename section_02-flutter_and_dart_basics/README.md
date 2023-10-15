@@ -1,8 +1,7 @@
 
 # Section 2: Flutter & Dart Basics | - Getting a Solid Foundation [ROLL DICE APP]
 
-
-######In this section...
+#### In this section...
 
 1. **Basic Flutter App and First Widget**
    - Initial widget creation and understanding widgets.
